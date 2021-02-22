@@ -15,5 +15,4 @@ https://www.python.org/downloads/
 
 Ejemplo:
 
-![Ejemplo con captura]
-(https://raw.githubusercontent.com/fullbrito/csgoPingTestLatam/main/examples/capture1.png)
+![Ejemplo con captura](https://raw.githubusercontent.com/fullbrito/csgoPingTestLatam/main/examples/capture3.png)
