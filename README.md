@@ -14,5 +14,6 @@ Python 2.7+
 https://www.python.org/downloads/
 
 Ejemplo:
+
 ![Ejemplo con captura]
 (https://raw.githubusercontent.com/fullbrito/csgoPingTestLatam/main/examples/capture1.png)
